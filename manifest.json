@@ -8,9 +8,10 @@
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["content.js"],
+    "_comment": "base code taken from https://blog.lateral.io/ visit them they rock",
     "matches": ["https://apps.collaboratemd.com/*"]
   }]
-  "_comment": "base code taken from https://blog.lateral.io/ visit them they rock"
+  
 }
 
 

@@ -1,7 +1,7 @@
 # collaboratefix
 Fix Collaborates Cell Hight problem on Chrome browsers
 
-Download this project: https://hhssolutions.com/wp-content/uploads/2019/08/CMD-HHS-Fix-1.png
+Download this project: <img src="https://hhssolutions.com/wp-content/uploads/2019/08/CMD-HHS-Fix-1.png">
 
 Unzip the file somewhere you can access like desktop:https://hhssolutions.com/wp-content/uploads/2019/08/CMD-HHS-Fix-2.png
 

@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "HHS CMD Fix",
+  "version": "0.1.0",
+  "description": "A fix for a bug in collaboratemd use as chrome extension",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://apps.collaboratemd.com/*"]
+  }]
+  "_comment": "base code taken from https://blog.lateral.io/ visit them they rock"
+}
+
+
